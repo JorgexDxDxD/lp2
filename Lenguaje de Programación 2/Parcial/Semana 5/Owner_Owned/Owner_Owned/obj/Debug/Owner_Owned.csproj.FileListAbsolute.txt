@@ -1,0 +1,11 @@
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\bin\Debug\Owner_Owned.exe.config
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\bin\Debug\Owner_Owned.exe
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\bin\Debug\Owner_Owned.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.csprojResolveAssemblyReference.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.Owned.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.Owner.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.Properties.Resources.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.csproj.GenerateResource.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.csproj.CoreCompileInputs.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.exe
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\Owner_Owned\Owner_Owned\obj\Debug\Owner_Owned.pdb

@@ -1,0 +1,7 @@
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\bin\Debug\ClienteC3_Serv_Java.exe.config
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\bin\Debug\ClienteC3_Serv_Java.exe
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\bin\Debug\ClienteC3_Serv_Java.pdb
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\obj\Debug\ClienteC3_Serv_Java.csprojAssemblyReference.cache
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\obj\Debug\ClienteC3_Serv_Java.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\obj\Debug\ClienteC3_Serv_Java.exe
+C:\Users\jorge\Desktop\LP\ClienteC3_Serv_Java\ClienteC3_Serv_Java\obj\Debug\ClienteC3_Serv_Java.pdb

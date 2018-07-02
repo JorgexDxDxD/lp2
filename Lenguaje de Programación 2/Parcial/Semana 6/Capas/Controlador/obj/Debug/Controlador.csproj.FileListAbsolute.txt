@@ -1,0 +1,42 @@
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\Controlador.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\Controlador.pdb
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\AccesoDatos.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\Modelo.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\AccesoDatos.pdb
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\bin\Debug\Modelo.pdb
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\obj\Debug\Controlador.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\Controlador.dll
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\AccesoDatos.dll
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\Modelo.dll
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\AccesoDatos.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\obj\Debug\Controlador.dll
+C:\Users\Freddy\Desktop\FP\Capas\Controlador\obj\Debug\Controlador.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\Controlador.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\Controlador.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\AccesoDatos.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\Modelo.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\AccesoDatos.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\bin\Debug\Modelo.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\obj\Debug\Controlador.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Controlador\obj\Debug\Controlador.pdb
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\Controlador.dll
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\AccesoDatos.dll
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\Modelo.dll
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\AccesoDatos.pdb
+C:\Users\jorge\Desktop\Capas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\jorge\Desktop\Capas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\Capas\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Capas\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\jorge\Desktop\Capas\Controlador\obj\Debug\Controlador.dll
+C:\Users\jorge\Desktop\Capas\Controlador\obj\Debug\Controlador.pdb

@@ -1,0 +1,11 @@
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\bin\Debug\MDI_Child.exe.config
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\bin\Debug\MDI_Child.exe
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\bin\Debug\MDI_Child.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.csprojResolveAssemblyReference.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.formPrincipal.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.frmGestionarVentas.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.Properties.Resources.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.csproj.GenerateResource.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.csproj.CoreCompileInputs.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.exe
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 5\MDI_Child\MDI_Child\obj\Debug\MDI_Child.pdb

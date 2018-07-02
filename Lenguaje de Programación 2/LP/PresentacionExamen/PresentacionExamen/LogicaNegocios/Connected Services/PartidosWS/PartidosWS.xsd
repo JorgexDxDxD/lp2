@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://Servicio/" targetNamespace="http://Servicio/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="eliminarPartido" type="tns:eliminarPartido" />
+  <xs:element name="eliminarPartidoResponse" type="tns:eliminarPartidoResponse" />
+  <xs:element name="listarPaises" type="tns:listarPaises" />
+  <xs:element name="listarPaisesResponse" type="tns:listarPaisesResponse" />
+  <xs:element name="listarPartidos" type="tns:listarPartidos" />
+  <xs:element name="listarPartidosResponse" type="tns:listarPartidosResponse" />
+  <xs:element name="registrarPartido" type="tns:registrarPartido" />
+  <xs:element name="registrarPartidoResponse" type="tns:registrarPartidoResponse" />
+  <xs:complexType name="registrarPartido">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="tns:partido" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="partido">
+    <xs:sequence>
+      <xs:element name="EQUIPO_A" type="xs:int" />
+      <xs:element name="EQUIPO_B" type="xs:int" />
+      <xs:element name="GOLES_EQUIPO_A" type="xs:int" />
+      <xs:element name="GOLES_EQUIPO_B" type="xs:int" />
+      <xs:element name="JUGADO" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrarPartidoResponse">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarPaises">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarPaisesResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:pais" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="pais">
+    <xs:sequence>
+      <xs:element name="CATEGORIA_SORTEO" type="xs:int" />
+      <xs:element minOccurs="0" name="GRUPO" type="xs:string" />
+      <xs:element name="ID_PAIS_CLASIFICADO" type="xs:int" />
+      <xs:element minOccurs="0" name="NOMBRE" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="eliminarPartido">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="tns:partido" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="eliminarPartidoResponse">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarPartidos">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarPartidosResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:partido" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

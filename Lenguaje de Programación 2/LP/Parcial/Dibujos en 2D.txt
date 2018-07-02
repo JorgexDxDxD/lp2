@@ -1,0 +1,21 @@
+Asincrona -> Dibuja junto con el formulario
+
+Sincrona -> Dibujamos mediante la activación de eventos
+
+Sincronizada -> Redibujar
+Memoria -> Cargando con un objeto en memoria
+
+Sobreeescribir un metodo de jfRAME
+
+public void paint(Graphics g)
+	super.paint(g)
+	g.fillRect
+
+sobreescribir metodos
+addXXXListener (new xxxAdapter)(){
+	public void xxx(xxEvent obj){
+
+	}
+}
+
+Arquitectura de capas

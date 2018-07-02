@@ -1,0 +1,14 @@
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\PresentacionExamen.exe.config
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\PresentacionExamen.exe
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\PresentacionExamen.pdb
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.frmGestionPartidos.resources
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.Properties.Resources.resources
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.exe
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.pdb
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\LogicaNegocios.dll
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\LogicaNegocios.pdb
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\bin\Debug\LogicaNegocios.dll.config
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.csproj.CopyComplete
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\PresentacionExamen\obj\Debug\PresentacionExamen.csprojAssemblyReference.cache

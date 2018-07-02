@@ -1,0 +1,1 @@
+enum TTarjeta {VISA, MASTERCARD}

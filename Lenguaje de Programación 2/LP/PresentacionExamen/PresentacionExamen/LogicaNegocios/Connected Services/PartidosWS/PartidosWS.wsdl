@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://Servicio/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="PartidosWS" targetNamespace="http://Servicio/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost:8080/ExamenFinalCicloPasado/PartidosWS?xsd=1" namespace="http://Servicio/" />
+    </xsd:schema>
+  </types>
+  <message name="listarPaises">
+    <part name="parameters" element="tns:listarPaises" />
+  </message>
+  <message name="listarPaisesResponse">
+    <part name="parameters" element="tns:listarPaisesResponse" />
+  </message>
+  <message name="eliminarPartido">
+    <part name="parameters" element="tns:eliminarPartido" />
+  </message>
+  <message name="eliminarPartidoResponse">
+    <part name="parameters" element="tns:eliminarPartidoResponse" />
+  </message>
+  <message name="listarPartidos">
+    <part name="parameters" element="tns:listarPartidos" />
+  </message>
+  <message name="listarPartidosResponse">
+    <part name="parameters" element="tns:listarPartidosResponse" />
+  </message>
+  <message name="registrarPartido">
+    <part name="parameters" element="tns:registrarPartido" />
+  </message>
+  <message name="registrarPartidoResponse">
+    <part name="parameters" element="tns:registrarPartidoResponse" />
+  </message>
+  <portType name="PartidosWS">
+    <operation name="listarPaises">
+      <input wsam:Action="http://Servicio/PartidosWS/listarPaisesRequest" message="tns:listarPaises" />
+      <output wsam:Action="http://Servicio/PartidosWS/listarPaisesResponse" message="tns:listarPaisesResponse" />
+    </operation>
+    <operation name="eliminarPartido">
+      <input wsam:Action="http://Servicio/PartidosWS/eliminarPartidoRequest" message="tns:eliminarPartido" />
+      <output wsam:Action="http://Servicio/PartidosWS/eliminarPartidoResponse" message="tns:eliminarPartidoResponse" />
+    </operation>
+    <operation name="listarPartidos">
+      <input wsam:Action="http://Servicio/PartidosWS/listarPartidosRequest" message="tns:listarPartidos" />
+      <output wsam:Action="http://Servicio/PartidosWS/listarPartidosResponse" message="tns:listarPartidosResponse" />
+    </operation>
+    <operation name="registrarPartido">
+      <input wsam:Action="http://Servicio/PartidosWS/registrarPartidoRequest" message="tns:registrarPartido" />
+      <output wsam:Action="http://Servicio/PartidosWS/registrarPartidoResponse" message="tns:registrarPartidoResponse" />
+    </operation>
+  </portType>
+  <binding name="PartidosWSPortBinding" type="tns:PartidosWS">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="listarPaises">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="eliminarPartido">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="listarPartidos">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="registrarPartido">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="PartidosWS">
+    <port name="PartidosWSPort" binding="tns:PartidosWSPortBinding">
+      <soap:address location="http://localhost:8080/ExamenFinalCicloPasado/PartidosWS" />
+    </port>
+  </service>
+</definitions>

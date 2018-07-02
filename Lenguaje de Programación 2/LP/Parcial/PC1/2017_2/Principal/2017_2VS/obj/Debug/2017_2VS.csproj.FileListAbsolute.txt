@@ -1,0 +1,7 @@
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\obj\Debug\2017_2VS.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\obj\Debug\2017_2VS.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\bin\Debug\2017_2VS.exe.config
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\bin\Debug\2017_2VS.exe
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\bin\Debug\2017_2VS.pdb
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\obj\Debug\2017_2VS.exe
+C:\Users\jorge\Desktop\C#\PC1\2017_2\Principal\2017_2VS\obj\Debug\2017_2VS.pdb

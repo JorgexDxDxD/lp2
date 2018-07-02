@@ -1,0 +1,23 @@
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Modelo\bin\Debug\Modelo.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Modelo\bin\Debug\Modelo.pdb
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Modelo\obj\Debug\Modelo.dll
+c:\Users\Freddy\documents\visual studio 2017\Projects\Vista\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\bin\Debug\Modelo.dll
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\obj\Debug\Modelo.dll
+C:\Users\Freddy\Desktop\FP\Capas\Modelo\obj\Debug\Modelo.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\bin\Debug\Modelo.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\bin\Debug\Modelo.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\obj\Debug\Modelo.dll
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Modelo\obj\Debug\Modelo.pdb
+C:\Users\jorge\Desktop\Capas\Modelo\bin\Debug\Modelo.dll
+C:\Users\jorge\Desktop\Capas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\jorge\Desktop\Capas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\Capas\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Capas\Modelo\obj\Debug\Modelo.dll
+C:\Users\jorge\Desktop\Capas\Modelo\obj\Debug\Modelo.pdb

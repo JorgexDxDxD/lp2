@@ -1,0 +1,7 @@
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\bin\Debug\LogicaNegocios.dll.config
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\jorge\Desktop\LP\PresentacionExamen\PresentacionExamen\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache

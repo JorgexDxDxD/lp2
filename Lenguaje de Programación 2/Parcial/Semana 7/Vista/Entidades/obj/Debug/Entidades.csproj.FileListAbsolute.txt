@@ -1,0 +1,6 @@
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\bin\Debug\Entidades.dll
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\obj\Debug\Entidades.dll
+C:\Users\Freddy\Documents\Visual Studio 2017\Projects\Vista\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteC3_Serv_Java", "ClienteC3_Serv_Java\ClienteC3_Serv_Java.csproj", "{E0CF314D-2FF3-4A71-8A3B-8D21B612459B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CF314D-2FF3-4A71-8A3B-8D21B612459B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CF314D-2FF3-4A71-8A3B-8D21B612459B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CF314D-2FF3-4A71-8A3B-8D21B612459B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CF314D-2FF3-4A71-8A3B-8D21B612459B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58AF5CC-D289-4B89-9DD3-C8A1F7B1E2B8}
+	EndGlobalSection
+EndGlobal

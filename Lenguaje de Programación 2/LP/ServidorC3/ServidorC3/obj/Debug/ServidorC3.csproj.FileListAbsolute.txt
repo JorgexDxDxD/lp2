@@ -1,0 +1,7 @@
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\bin\ServidorC3.dll.config
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\bin\ServidorC3.dll
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\bin\ServidorC3.pdb
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\obj\Debug\ServidorC3.csprojAssemblyReference.cache
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\obj\Debug\ServidorC3.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\obj\Debug\ServidorC3.dll
+C:\Users\jorge\Desktop\LP\ServidorC3\ServidorC3\obj\Debug\ServidorC3.pdb

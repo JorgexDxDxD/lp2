@@ -1,0 +1,60 @@
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Vista.exe.config
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Vista.exe
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Vista.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Controlador.dll
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Modelo.dll
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\AccesoDatos.dll
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Controlador.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\Modelo.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\bin\Debug\AccesoDatos.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.frmRegistroProducto.resources
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.exe
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.pdb
+c:\users\freddy\documents\visual studio 2017\Projects\Vista\Vista\obj\Debug\Vista.frmBusquedaProductos.resources
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Vista.exe.config
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Vista.exe
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Vista.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Controlador.dll
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Modelo.dll
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\AccesoDatos.dll
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Controlador.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\Modelo.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Vista\bin\Debug\AccesoDatos.pdb
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.frmBusquedaProductos.resources
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.frmRegistroProducto.resources
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.exe
+C:\Users\Freddy\Desktop\FP\Capas\Vista\obj\Debug\Vista.pdb
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.frmBusquedaProductos.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.frmRegistroProducto.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.exe
+E:\Cursos\2018-1\Lenguaje de Programación 2\Semana 6\Capas\Vista\obj\Debug\Vista.pdb
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.frmBusquedaProductos.resources
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.frmRegistroProducto.resources
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.exe
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.pdb
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Vista.exe.config
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Vista.exe
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Vista.pdb
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Controlador.dll
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Modelo.dll
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\AccesoDatos.dll
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Controlador.pdb
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\Modelo.pdb
+C:\Users\jorge\Desktop\Capas\Vista\bin\Debug\AccesoDatos.pdb
+C:\Users\jorge\Desktop\Capas\Vista\obj\Debug\Vista.csproj.CopyComplete
